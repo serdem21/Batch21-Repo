@@ -1,1 +1,2 @@
 Adding from github.com, infinite loop of creating repo was very helpful
+we are cloning remote to local making some changes committing the changes pushing it back to remote repository

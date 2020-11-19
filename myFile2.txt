@@ -1,2 +1,3 @@
 adding from github.com, infinitive loop of
 adding moe stuff from locally
+added some changes file2.txt to myFile2.txt
